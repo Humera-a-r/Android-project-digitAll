@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="length_units">
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Micrometer</item>
+        <item>nanometer</item><item>Meter</item>
+        <item>mile</item>
+        <item>yard</item>
+        <item>foot</item>
+        <item>inch</item>
+        <item></item>
+    </array>
+</resources>
